@@ -4,3 +4,4 @@ Repository ini digunakan untuk sayembara pencarian volunter untuk pembuatan Sist
 **\* Nama Lengkap, [Nama Portofolio](Alamat Portofolio)**
 
 Berikut daftar Volunter yang diterima:
+* Atsal Rizandri, [Linkedin](https://www.linkedin.com/in/atsal-rizandri).
